@@ -1,5 +1,5 @@
-Unix & Git for Everyone
------------------------
+Unix & Git for Everyone (Portland, August 22, 2015)
+--------------------------------------------------
 
 ### Pre-work
 
