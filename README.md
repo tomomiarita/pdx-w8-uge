@@ -1,6 +1,10 @@
 Unix & Git for Everyone (Portland, October 17, 2015)
 --------------------------------------------------
 
+### During Class
+
+  - [Reading Materials](extras/1_reading.md)
+
 ### Pre-work
 
 ##### 1. Ensure your laptop up to the task of coding
